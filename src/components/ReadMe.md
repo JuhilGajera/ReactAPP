@@ -1,0 +1,1 @@
+Here i have used HTML , CSS , JAVASCRIPT and ReactJs to built this UI.I have mostly used function components in ReactJS part and i have used Axios for clean code and understandig the code batter.Here in some Parts i have also used bootstrap for Nav bar craeation and card.i have Used map method to traverse all the data of an API and also used card to get output of User data.
